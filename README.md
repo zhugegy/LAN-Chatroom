@@ -2,7 +2,7 @@
 
 ![title_img](doc/title_img.jpg)
 
-Local Area Network chatroom. A learning project done with MFC and C++.
+Local Area Network chatroom, can be used for instant group messaging in local networks such as WiFi environment.
 
 Video Demo: [Vimeo](https://vimeo.com/432340947)
 
