@@ -1,4 +1,4 @@
-# LAN-Chatroom
+# LAN Chatroom
 
 ![title_img](misc/title_img.jpg)
 
